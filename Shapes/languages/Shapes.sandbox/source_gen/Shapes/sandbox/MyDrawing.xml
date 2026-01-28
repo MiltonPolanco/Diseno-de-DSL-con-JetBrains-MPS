@@ -1,0 +1,18 @@
+<painting name="MyDrawing">  
+  <square>    
+    <center x="100" y="200"></center>
+    <size>50</size>
+    <color>black</color>
+  </square>
+  <circle>    
+    <center x="50" y="50"></center>
+    <radius>30</radius>
+    <color>white</color>
+  </circle>
+  <triangle>    
+    <center x="300" y="300"></center>
+    <side>50</side>
+    <rotationDeg>0</rotationDeg>
+    <color>red</color>
+  </triangle>
+</painting>

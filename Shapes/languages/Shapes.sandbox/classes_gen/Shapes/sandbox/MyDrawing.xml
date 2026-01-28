@@ -1,0 +1,12 @@
+<painting name="MyDrawing">  
+  <square>    
+    <center x="100" y="200"></center>
+    <size>50</size>
+    <color>black</color>
+  </square>
+  <circle>    
+    <center x="10" y="20"></center>
+    <radius>30</radius>
+    <color>white</color>
+  </circle>
+</painting>
